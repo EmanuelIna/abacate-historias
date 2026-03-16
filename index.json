@@ -1,0 +1,22 @@
+[
+  {
+    "id": "nossa-historia",
+    "titulo": "Como tudo começou",
+    "descricao": "A história do dia em que eu soube que você era especial.",
+    "data": "2024-01-15",
+    "capa": "nossa-historia/capa.jpg"
+  },
+  {
+    "id": "primeiro-beijo",
+    "titulo": "Aquele momento",
+    "descricao": "Tem momentos que a gente nunca esquece.",
+    "data": "2024-02-10",
+    "capa": "primeiro-beijo/capa.jpg"
+  },
+  {
+    "id": "carta-mesversario",
+    "titulo": "Para o meu Abacate 🥑",
+    "descricao": "Uma carta escrita com o coração cheio.",
+    "data": "2025-03-15"
+  }
+]
